@@ -1,7 +1,7 @@
 {
   "name": "kathleens-atom-ui",
   "theme": "ui",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Atom UI Theme project",
   "keywords": [
     "ui",
